@@ -18,7 +18,7 @@ List links and description
 * [Non-legal Cyber activism](#hackactivism)
 * [IT Hacking list](#ithack)
 * [AT Hacking list](#athack)
-* [Courses Sites](#courses)
+* [Courses and Guides Sites](#courses)
 * [OS - Operation Systens](#os)
 * [Tools](#os)
 
@@ -86,10 +86,11 @@ List links and description
 | [Shodan](https://www.shodan.io) | Open ports in A.T | 
 | [Critifence](http://www.critifence.com/default-password-database/) | Default Password database of A.T |
 
-### <a name="courses"></a>Courses Sites
+### <a name="courses"></a>Courses and Guides Sites
 | Link | Description |
 | ----- | ------ |
 | [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning | 
+| [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) | [PT-BR] Safe Development Guide | 
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
