@@ -105,4 +105,4 @@ List links and description
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
-| [https://find-sec-bugs.github.io/] | The FindBugs plugin for security audits of Java Web Applications. |  
+| [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. |  
