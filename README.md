@@ -53,7 +53,8 @@ List links and description
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
 | [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
-| [Virus Guides](http://virusguides.com/) | Powered by Knowledge | 
+| [Virus Guides](http://virusguides.com/) | Powered by Knowledge |
+| [Malwaretech](https://www.malwaretech.com/) | News about Malware |
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
 
 
