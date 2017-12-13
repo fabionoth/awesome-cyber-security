@@ -106,4 +106,8 @@ List links and description
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
-| [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. |  
+| [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
+| [Metasploit Framework](https://www.metasploit.com/) | Pentest Framework used by Kali Linux. |
+| [NMap](https://nmap.org/) | Nmap "Network Mapper" is a free and open source utility for network discovery and security auditing. |
+| [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |
+     
