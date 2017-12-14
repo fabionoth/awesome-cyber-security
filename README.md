@@ -53,6 +53,7 @@ List links and description
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
 | [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
+| [Security Affairs](http://securityaffairs.co/wordpress/) | Copyright 2015 Security Affairs by Pierluigi Paganini All Right Reserved. | 
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
 | [Virus Guides](http://virusguides.com/) | Powered by Knowledge |
 | [Malwaretech](https://www.malwaretech.com/) | News about Malware |
