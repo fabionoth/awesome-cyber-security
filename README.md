@@ -100,9 +100,13 @@ List links and description
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
 | ------ | ------ |
-| [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
+| [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment oriented Linux distro.. |
+| [BlackArckLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
 | [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
+| [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Security Operating System is a Penetration Testing & Forensics Distro dedicated to Ethical Hackers & Cyber Security Professionals.|
 | [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
+| [PENTOOS](http://www.pentoo.ch/) | Pentoo is a security-focused livecd based on Gentoo |
+| [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
 
 ### <a name="tools"></a>Tools
 | Link | Description |
