@@ -11,7 +11,7 @@ Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security
 
 List links and description 
 * [Cert and alerts](#cert)
-* [Certification] (#certification)
+* [Certification](#certification)
 * [Jornls and Papers publishing](#jornals)
 * [Organizations](#org)
 * [Informatives and Blogs](#blogs)
