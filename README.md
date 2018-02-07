@@ -11,6 +11,7 @@ Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security
 
 List links and description 
 * [Cert and alerts](#cert)
+* [Certification] (#certification)
 * [Jornls and Papers publishing](#jornals)
 * [Organizations](#org)
 * [Informatives and Blogs](#blogs)
@@ -29,6 +30,13 @@ List links and description
 | ------ | ------ |
 | [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
+
+### <a name="certification"></a>Certification
+| Link | Description | 
+| ------ | ------- | 
+| [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s). The CEH credential certifies individuals in the specific network security discipline of Ethical Hacking from a vendor-neutral perspective. | 
+| [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | The GPEN certification is for security personnel whose job duties involve assessing target networks and systems to find security vulnerabilities. Certification objectives include penetration-testing methodologies, the legal issues surrounding penetration testing and how to properly conduct a penetration test as well as best practice technical and non-technical techniques specific to conduct a penetration test.| 
+| [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) |The Offensive Security Certified Professional (OSCP) is the companion certification for our Penetration Testing with Kali Linux training course and is the world’s first completely hands-on offensive information security certification. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour certification exam. | 
 
 ### <a name="jornals"></a>Jornals and Papers publishing
 | Link | Description |
