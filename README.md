@@ -58,6 +58,7 @@ List links and description
 | [ICS Sans](https://ics.sans.org) | Sans Industrial Control Systems blog |
 | [GBHackers on Security](https://gbhackers.com/) | Security blog |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
+| [g0tmi1k Blog](https://blog.g0tmi1k.com/) | Hacker blog |
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
 | [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
