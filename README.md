@@ -12,7 +12,6 @@ Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security
 List links and description 
 * [Cert and alerts](#cert)
 * [Certification](#certification)
-* [Jornls and Papers publishing](#jornals)
 * [Organizations](#org)
 * [Informatives and Blogs](#blogs)
 * [Training L3g@l and G@mes](#training)
@@ -30,24 +29,24 @@ List links and description
 | ------ | ------ |
 | [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
+| [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
 
 ### <a name="certification"></a>Certification
 | Link | Description | 
 | ------ | ------- | 
 | [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s). The CEH credential certifies individuals in the specific network security discipline of Ethical Hacking from a vendor-neutral perspective. | 
-| [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | The GPEN certification is for security personnel whose job duties involve assessing target networks and systems to find security vulnerabilities. Certification objectives include penetration-testing methodologies, the legal issues surrounding penetration testing and how to properly conduct a penetration test as well as best practice technical and non-technical techniques specific to conduct a penetration test.| 
+| [CISSP - CERTIFIED INFORMATION SYSTEMS SECURITY PROFESSIONAL](https://www.isc2.org/Certifications/CISSP) | The Certified Information Systems Security Professional (CISSP) is an information security certification for security analysts. |
+| [CompTIA Security +](https://certification.comptia.org/certifications/security) | CompTIA Security+ is a global certification that validates the baseline skills you need to perform core security functions     and pursue an IT security career. |
+| [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | The GPEN certification is for security personnel whose job duties involve assessing target networks and systems to find security vulnerabilities. Certification objectives include penetration-testing methodologies, the legal issues surrounding penetration testing and how to properly conduct a penetration test as well as best practice technical and non-technical techniques specific to conduct a penetration test.|
+| [PWK - Penetration Testing Training with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)| Penetration Testing with Kali (PWK) is a self-paced, online course that introduces students to the latest ethical hacking tools and techniques. |
 | [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) |The Offensive Security Certified Professional (OSCP) is the companion certification for our Penetration Testing with Kali Linux training course and is the world’s first completely hands-on offensive information security certification. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour certification exam. | 
-
-### <a name="jornals"></a>Jornals and Papers publishing
-| Link | Description |
-| ------ | ------ |
-| [Enigma](https://enigma.unb.br/index.php/enigma) | Brazillian Journal of Information Security and Criptography |
-| [Laboratório de Defesa Cibernetica do IME](http://www.defesacibernetica.ime.eb.br) | Cyber Security Laboratory of Brazillian Military Engineering Institute | 
 
 ### <a name="org"></a>Organizations
 | Link | Description |
 | ------ | ------ |
-| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers*? |
+| [CIS Centor for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
+| [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE® is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.|
+| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
 | [Owasp](https://www.owasp.org) | Open Web Application Security Project |
 | [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
 
@@ -60,6 +59,8 @@ List links and description
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [g0tmi1k Blog](https://blog.g0tmi1k.com/) | Hacker blog |
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
+| [HelpNetSecurity](https://www.helpnetsecurity.com/) | Help Net Security |
+| [Security Focus](https://www.securityfocus.com/) | Security Focus | 
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
 | [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
 | [Security Affairs](http://securityaffairs.co/wordpress/) | Copyright 2015 Security Affairs by Pierluigi Paganini All Right Reserved. | 
