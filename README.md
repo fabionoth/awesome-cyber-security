@@ -132,6 +132,8 @@ List links and description
 | [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |i
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; | 
+| [OSSEC](https://www.ossec.net/) | OSSEC is a multplatform, opensource and free HIDS |
+| [Wazuh](https://wazuh.com) | Wazun is a open source enterprise-ready security monitoring solution for threat detection, integrity monitorying, incident response and compliance. | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
      
