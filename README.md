@@ -73,6 +73,7 @@ List links and description
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
 | Link | Description | 
 | ------ | ------ |
+| [BetterMotherFucking CTF](https://github.com/qmemcpy/bettermotherfuckingctf) | MotherfuckingCTF inspired platform. But better. |
 | [CTF365](https://ctf365.com/) | CTF Praticing |
 | [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
 | [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience  |
