@@ -68,6 +68,7 @@ List links and description
 | [Virus Guides](http://virusguides.com/) | Powered by Knowledge |
 | [Malwaretech](https://www.malwaretech.com/) | News about Malware |
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
+| [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
 
 
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
