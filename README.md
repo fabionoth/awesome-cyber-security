@@ -140,3 +140,8 @@ List links and description
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
      
+
+### <a name="books"></a>Books
+| Link | Description |
+| ------ | ------ |
+| [The Security Engineer Handbook](https://securityhandbook.io/) | a small book on how to make it in a security team, as part of a broader organization |
