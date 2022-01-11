@@ -116,7 +116,7 @@ List links and description
 | Link | Description | 
 | ------ | ------ |
 | [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment oriented Linux distro.. |
-| [BlackArckLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
+| [BlackArchLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
 | [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
 | [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Security Operating System is a Penetration Testing & Forensics Distro dedicated to Ethical Hackers & Cyber Security Professionals.|
 | [QubesOS](https://www.qubes-os.org/) | Qubes OS is a security-oriented operating system (OS). The OS is the software that runs all the other programs on a computer. Some examples of popular OSes are Microsoft Windows, Mac OS X, Android, and iOS. Qubes is free and open-source software (FOSS). |
@@ -145,3 +145,5 @@ List links and description
 | Link | Description |
 | ------ | ------ |
 | [The Security Engineer Handbook](https://securityhandbook.io/) | a small book on how to make it in a security team, as part of a broader organization |
+| [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
+| [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |     
