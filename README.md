@@ -139,11 +139,10 @@ List links and description
 | [Wazuh](https://wazuh.com) | Wazun is a open source enterprise-ready security monitoring solution for threat detection, integrity monitorying, incident response and compliance. | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
-     
+| [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
+| [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
 
 ### <a name="books"></a>Books
 | Link | Description |
 | ------ | ------ |
 | [The Security Engineer Handbook](https://securityhandbook.io/) | a small book on how to make it in a security team, as part of a broader organization |
-| [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
-| [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |     
