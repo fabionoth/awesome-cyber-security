@@ -127,6 +127,7 @@ List links and description
 ### <a name="tools"></a>Tools
 | Link | Description |
 | ------ | ------ |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.|
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
