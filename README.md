@@ -1,149 +1,149 @@
-# Awesome Cyber Security
+# Awesome Cyber Security (Türkçe Kaynak)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+Güvenlikle ilgili harika yazılımlar, kütüphaneler, belgeler, kitaplar, kaynaklar ve havalı şeylerden oluşan bir koleksiyon.
 
-Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) and [Herman Slatman](https://github.com/hslatman).
+Awesome Security](https://github.com/sbilly/awesome-security) ve [Herman Slatman](https://github.com/hslatman)'dan esinlenilmiştir.
 
-Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
-
-
-List links and description 
-* [Cert and alerts](#cert)
-* [Certification](#certification)
-* [Organizations](#org)
-* [Informatives and Blogs](#blogs)
-* [CTF, Training L3g@l and G@mes](#training)
-* [Non-legal Cyber activism](#hackactivism)
-* [IT Hacking list](#ithack)
-* [AT Hacking list](#athack)
-* [Courses and Guides Sites](#courses)
-* [OS - Operation Systens](#os)
-* [Tools](#os)
+Tüm [katkıda bulunanlara](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) teşekkürler, harikasınız ve siz olmadan mümkün olmazdı! Amaç, çok iyi bilinen kaynaklardan oluşan kategorize edilmiş topluluk odaklı bir koleksiyon oluşturmaktır.
 
 
+Liste bağlantıları ve açıklamalar
+* [Sertifika ve uyarılar](#cert)
+* [Sertifikasyon](#certification)
+* [Organizasyonlar](#org)
+* [Bilgilendirici Yazılar ve Bloglar](#blogs)
+* [CTF, Yasal Eğitim ve Oyunlar](#training)
+* [Yasal olmayan Siber aktivizm](#hackactivism)
+* [IT Hacking listesi](#ithack)
+* [AT Hacking listesi](#athack)
+* [Kurslar ve Rehberler](#courses)
+* [OS - Operasyon Sistemleri](#os)
+* [Araçlar](#os)
 
-### <a name="cert"></a>CERT and alerts
-| Link | Description |
+
+
+### <a name="cert"></a>Sertifika ve uyarılar
+| Link | Açıklama |
 | ------ | ------ |
-| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
-| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
-| [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
+| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Son Haberler) AB (Avrupa Birliği) kurum, kuruluş ve ajansları için bilgisayar acil müdahale takımı |
+| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Uyarılar) US-CERT Birleşik Devletler Bilgisayar Acil Durum Hazırlık Ekibi |
+| [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | Bir ICS-CERT Uyarısı, kritik altyapı sahiplerine ve operatörlerine, kritik altyapı bilgi işlem ağlarını etkileme potansiyeline sahip tehditler veya faaliyetler hakkında zamanında bildirim sağlamayı amaçlamaktadır. |
 
-### <a name="certification"></a>Certification
-| Link | Description | 
+### <a name="certification"></a>Sertifikasyon
+| Link | Açıklama | 
 | ------ | ------- | 
-| [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s). The CEH credential certifies individuals in the specific network security discipline of Ethical Hacking from a vendor-neutral perspective. | 
-| [CISSP - CERTIFIED INFORMATION SYSTEMS SECURITY PROFESSIONAL](https://www.isc2.org/Certifications/CISSP) | The Certified Information Systems Security Professional (CISSP) is an information security certification for security analysts. |
-| [CompTIA Security +](https://certification.comptia.org/certifications/security) | CompTIA Security+ is a global certification that validates the baseline skills you need to perform core security functions     and pursue an IT security career. |
-| [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | The GPEN certification is for security personnel whose job duties involve assessing target networks and systems to find security vulnerabilities. Certification objectives include penetration-testing methodologies, the legal issues surrounding penetration testing and how to properly conduct a penetration test as well as best practice technical and non-technical techniques specific to conduct a penetration test.|
-| [PWK - Penetration Testing Training with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)| Penetration Testing with Kali (PWK) is a self-paced, online course that introduces students to the latest ethical hacking tools and techniques. |
-| [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) |The Offensive Security Certified Professional (OSCP) is the companion certification for our Penetration Testing with Kali Linux training course and is the world’s first completely hands-on offensive information security certification. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour certification exam. | 
+| [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | Sertifikalı Etik Hacker, hedef sistemlerdeki zayıflıkları ve güvenlik açıklarını nasıl arayacağını anlayan ve bilen ve kötü niyetli bir bilgisayar korsanıyla aynı bilgi ve araçları kullanan, ancak hedef sistemlerin güvenlik duruşunu değerlendirmek için yasal ve meşru bir şekilde yetenekli bir profesyoneldir. CEH kimlik belgesi, Etik Korsanlığın belirli ağ güvenliği disiplinindeki bireyleri satıcıdan bağımsız bir bakış açısıyla sertifikalandırır. | 
+| [CISSP - CERTIFIED INFORMATION SYSTEMS SECURITY PROFESSIONAL](https://www.isc2.org/Certifications/CISSP) | Sertifikalı Bilgi Sistemleri Güvenlik Uzmanı (CISSP), güvenlik analistleri için bir bilgi güvenliği sertifikasıdır. |
+| [CompTIA Security +](https://certification.comptia.org/certifications/security) | CompTIA Security+, temel güvenlik işlevlerini yerine getirmek ve bir BT güvenlik kariyeri sürdürmek için ihtiyaç duyduğunuz temel becerileri doğrulayan küresel bir sertifikadır. |
+| [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | GPEN sertifikası, iş görevleri güvenlik açıklarını bulmak için hedef ağları ve sistemleri değerlendirmeyi içeren güvenlik personeli içindir. Sertifikasyon hedefleri arasında sızma testi metodolojileri, sızma testini çevreleyen yasal konular ve bir sızma testinin nasıl düzgün bir şekilde yürütüleceğinin yanı sıra bir sızma testi yürütmeye özgü en iyi uygulama teknik ve teknik olmayan teknikler yer alır. |
+| [PWK - Penetration Testing Training with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)| Kali ile Sızma Testi (PWK), öğrencileri en yeni etik bilgisayar korsanlığı araçları ve teknikleriyle tanıştıran, kendi hızınızda ilerleyebileceğiniz çevrimiçi bir kurstur. |
+| [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) | Offensive Security Certified Professional (OSCP), Kali Linux ile Sızma Testi eğitim kursumuzun tamamlayıcı sertifikasıdır ve dünyanın tamamen uygulamalı ilk saldırgan bilgi güvenliği sertifikasıdır. OSCP, öğrencileri yirmi dört (24) saatlik zorlu bir sertifika sınavı aracılığıyla sızma testi süreci ve yaşam döngüsü hakkında net ve pratik bir anlayışa sahip olduklarını kanıtlamaya zorlar. | 
 
-### <a name="org"></a>Organizations
-| Link | Description |
+### <a name="org"></a>Organizasyonlar
+| Link | Açıklama |
 | ------ | ------ |
-| [CIS Centor for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
-| [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE® is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.|
-| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
-| [Owasp](https://www.owasp.org) | Open Web Application Security Project |
-| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
+| [CIS Centor for Internet Security](https://www.cisecurity.org/) | CIS® (Center for Internet Security, Inc.), özel ve kamu kuruluşlarını siber tehditlere karşı korumak için küresel bir BT topluluğunun gücünü kullanan ileri görüşlü, kar amacı gütmeyen bir kuruluştur. |
+| [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE®, kamuoyunca bilinen siber güvenlik açıkları için her biri bir kimlik numarası, bir açıklama ve en az bir genel referans içeren bir giriş listesidir. |
+| [No more ransomware](https://www.nomoreransom.org/) | Saldırganlara ödeme yapmadan dijital hayatınızın kilidini açmak için yardıma mı ihtiyacınız var? |
+| [Owasp](https://www.owasp.org) | Açık Web Uygulama Güvenliği Projesi |
+| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Uyarılar) 0day Girişimi |
 
-### <a name="blogs"></a>Informatives and blogs
-| Link | Description |
+### <a name="blogs"></a>Bilgilendirici yazılar ve bloglar
+| Link | Açıklama |
 | ------ | ------ |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
-| [ICS Sans](https://ics.sans.org) | Sans Industrial Control Systems blog |
-| [GBHackers on Security](https://gbhackers.com/) | Security blog |
-| [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
-| [g0tmi1k Blog](https://blog.g0tmi1k.com/) | Hacker blog |
-| [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
-| [HelpNetSecurity](https://www.helpnetsecurity.com/) | Help Net Security |
-| [Security Focus](https://www.securityfocus.com/) | Security Focus | 
-| [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
-| [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
-| [Security Affairs](http://securityaffairs.co/wordpress/) | Copyright 2015 Security Affairs by Pierluigi Paganini All Right Reserved. | 
-| [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
-| [Virus Guides](http://virusguides.com/) | Powered by Knowledge |
-| [Malwaretech](https://www.malwaretech.com/) | News about Malware |
-| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
-| [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
-| [Advisory Week](https://advisoryweek.com/) | Security Advisories published by major vendors this week |
+| [ICS Sans](https://ics.sans.org) | Sans Endüstriyel Kontrol Sistemleri blogu |
+| [GBHackers on Security](https://gbhackers.com/) | Güvenlik blogu |
+| [Google Security Blog](https://security.googleblog.com/) | Google Güvenlik Blogu | 
+| [g0tmi1k Blog](https://blog.g0tmi1k.com/) | Hacker blogu |
+| [Hacker Security](https://hackersec.com/) | Hacker güvenlik Haberleri ve Blogu | 
+| [HelpNetSecurity](https://www.helpnetsecurity.com/) | Net Güvenliğine Yardım Edin |
+| [Security Focus](https://www.securityfocus.com/) | Güvenlik Odağı | 
+| [SecurityWeek](http://www.securityweek.com/) | İnternet ve Kurumsal Güvenlik Haberleri, Analizleri |
+| [Security art Work](https://www.securityartwork.es/en/) | Güvenlik Sanat Çalışması | 
+| [Security Affairs](http://securityaffairs.co/wordpress/) | Copyright 2015 Security Affairs by Pierluigi Paganini Tüm Hakları Saklıdır. | 
+| [The Hacker News](http://thehackernews.com) | The Hacker News Serius Yoluyla Güvenlik | 
+| [Virus Guides](http://virusguides.com/) | Bilgi ile Güçlendirilmiştir |
+| [Malwaretech](https://www.malwaretech.com/) | Kötü Amaçlı Yazılım Hakkında Haberler |
+| [WeLiveSecurity](https://www.welivesecurity.com/) | ESET güvenlik topluluğundan haberler, görüşler ve içgörüler |
+| [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Siber Güvenlik için Sanal Dağıtıcı Ağ Blogu |
+| [Advisory Week](https://advisoryweek.com/) | Bu hafta büyük tedarikçiler tarafından yayınlanan Güvenlik Önerileri |
 
-### <a name="training"></a>CTF, Training L3g@l and G@mes
-| Link | Description | 
+### <a name="training"></a>CTF, Yasal Eğitim ve Oyunlar
+| Link | Açıklama | 
 | ------ | ------ |
-| [BetterMotherFucking CTF](https://github.com/qmemcpy/bettermotherfuckingctf) | MotherfuckingCTF inspired platform. But better. |
-| [CTF365](https://ctf365.com/) | CTF Praticing |
-| [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
-| [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience  |
-| [Hackflag](https://hackaflag.com.br) | Brazilian Hackflag |
-| [Hacking-LAB](https://www.hacking-lab.com/) | Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. |
-| [HackTheBox](https://hackthebox.eu) | Pen-testing Labs |
-| [Over The Wire](http://overthewire.org/wargames/) | The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. |
-| [Open Security Training](http://opensecuritytraining.info/Training.html) | OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long.| 
-| [Pwnable.kr](http://pwnable.kr/) | 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. |
-| [Trailofbits Github](https://trailofbits.github.io/ctf/) | CTF Field Guide |
-| [Shellter](https://shellterlabs.com) | Social Network focused on information security |
+| [BetterMotherFucking CTF](https://github.com/qmemcpy/bettermotherfuckingctf) | MotherfuckingCTF'inden ilham alan bir platform. Ama daha iyisi. |
+| [CTF365](https://ctf365.com/) | CTF Uygulaması |
+| [FBCTF](https://github.com/facebook/fbctf) | Facebook CTF |
+| [Hacker Experience](https://hackerexperience.com/) | Hacker Deneyimi Oyunu |
+| [Hackflag](https://hackaflag.com.br) | Brezilya Hackflag |
+| [Hacking-LAB](https://www.hacking-lab.com/) | Hacking-Lab, siber güvenlik yeteneklerini bulmaya ve eğitmeye adanmış çevrimiçi bir etik hackleme, bilgisayar ağı ve güvenlik yarışması platformudur. |
+| [HackTheBox](https://hackthebox.eu) | Pentest Laboratuvarları |
+| [Over The Wire](http://overthewire.org/wargames/) | OverTheWire topluluğu tarafından sunulan savaş oyunları, güvenlik kavramlarını eğlence dolu oyunlar şeklinde öğrenmenize ve uygulamanıza yardımcı olabilir. |
+| [Open Security Training](http://opensecuritytraining.info/Training.html) | OpenSecurityTraining.info, herhangi bir konuda en az bir gün süren bilgisayar güvenliği sınıfları için eğitim materyallerini paylaşmaya adanmıştır. | 
+| [Pwnable.kr](http://pwnable.kr/) | 'pwnable.kr', sistem istismarı ile ilgili çeşitli pwn zorlukları sağlayan ticari olmayan bir savaş oyunu sitesidir. |
+| [Trailofbits Github](https://trailofbits.github.io/ctf/) | CTF Saha Rehberi |
+| [Shellter](https://shellterlabs.com) | Bilgi güvenliğine odaklanan sosyal ağ |
 
-### <a name="hackactivism"></a>Non-legal Cyber activism
-| Link | Description | 
+### <a name="hackactivism"></a>Yasal olmayan Siber aktivizm
+| Link | Açıklama | 
 | ------ | ------ |
-| [Zone-H](http://zone-h.org/) | List of sites attacked by unethical Hackers |
-| [WikiLeaks](https://wikileaks.org/) | WikiLeaks is a multi-national media organization and associated library. |
+| [Zone-H](http://zone-h.org/) | Etik olmayan (Siyah Şapka) Hackerlar tarafından saldırıya uğrayan sitelerin listesi |
+| [WikiLeaks](https://wikileaks.org/) | WikiLeaks çok uluslu bir medya kuruluşu ve buna bağlı bir kütüphanedir. |
 
-### <a name="ithack"></a>IT Hacking list
-| Link | Description |
+### <a name="ithack"></a>IT Hacking listesi
+| Link | Açıklama |
 | ------ | ------ |
-| [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Google Hackgin Database |
-| [Metasploit](https://www.metasploit.com/) | Metasploit penetration testing software |
+| [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Google Hackgin Veritabanı |
+| [Metasploit](https://www.metasploit.com/) | Metasploit sızma testi yazılımı |
 
-### <a name="athack"></a>AT Hacking list
-| Link | Description | 
+### <a name="athack"></a>AT Hacking listesi
+| Link | Açıklama | 
 | ------ | ------ |
-| [Shodan](https://www.shodan.io) | Open ports in A.T | 
-| [Critifence](http://www.critifence.com/default-password-database/) | Default Password database of A.T |
+| [Shodan](https://www.shodan.io) | A.T'de açık portlar | 
+| [Critifence](http://www.critifence.com/default-password-database/) | A.T'nin Varsayılan Şifre veritabanı |
 
-### <a name="courses"></a>Courses and Guides Sites
-| Link | Description |
+### <a name="courses"></a>Kurslar ve Rehberler
+| Link | Açıklama |
 | ----- | ------ |
-| [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning | 
-| [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) | [PT-BR] Safe Development Guide | 
-| [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/) | Website with guides and a Free Ethical Hacking Course |
+| [Cybrary](https://www.cybrary.it/) | Ücretsiz ve Açık Kaynak Siber Güvenlik Öğrenimi için site | 
+| [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) | [PT-BR] Güvenli Geliştirme Kılavuzu | 
+| [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/) | Kılavuz ve Ücretsiz Etik Hacking Kursu içeren web sitesi |
 
-### <a name="os"></a>OS - Operation Systens 
-| Link | Description | 
+### <a name="os"></a>OS - Operasyon Sistemleri
+| Link | Açıklama | 
 | ------ | ------ |
-| [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment oriented Linux distro.. |
-| [BlackArchLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
-| [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
-| [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Security Operating System is a Penetration Testing & Forensics Distro dedicated to Ethical Hackers & Cyber Security Professionals.|
-| [QubesOS](https://www.qubes-os.org/) | Qubes OS is a security-oriented operating system (OS). The OS is the software that runs all the other programs on a computer. Some examples of popular OSes are Microsoft Windows, Mac OS X, Android, and iOS. Qubes is free and open-source software (FOSS). |
-| [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
-| [PENTOOS](http://www.pentoo.ch/) | Pentoo is a security-focused livecd based on Gentoo |
-| [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
+| [BackBoxLinux](https://backbox.org/download) | BackBox Linux, sızma testi ve güvenlik değerlendirmesi odaklı bir Linux dağıtımıdır ... |
+| [BlackArchLinux](https://blackarch.org/index.html) | BlackArch Linux, sızma testçileri ve güvenlik araştırmacıları için Arch Linux tabanlı bir sızma testi dağıtımıdır. Depo 1925 araç içermektedir. Araçları tek tek ya da gruplar halinde yükleyebilirsiniz. BlackArch Linux mevcut Arch kurulumları ile uyumludur. |
+| [Kali](https://www.kali.org/) | Sızma Testleri için olmazsa olmaz Linux dağıtımı |
+| [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Güvenlik İşletim Sistemi, Etik Hackerlar ve Siber Güvenlik Profesyonellerine adanmış bir Sızma Testi ve Adli Tıp Dağıtımıdır. |
+| [QubesOS](https://www.qubes-os.org/) | Qubes OS güvenlik odaklı bir işletim sistemidir (OS). İşletim sistemi, bir bilgisayardaki diğer tüm programları çalıştıran yazılımdır. Popüler işletim sistemlerine bazı örnekler Microsoft Windows, Mac OS X, Android ve iOS'tur. Qubes ücretsiz ve açık kaynaklı bir yazılımdır (FOSS). |
+| [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester İşletim Sistemi |
+| [PENTOOS](http://www.pentoo.ch/) | Pentoo, Gentoo'ya dayanan güvenlik odaklı bir livecd'dir |
+| [Vulnhub](https://www.vulnhub.com/) | Pentestler için güvenlik açıkları olan işletim sistemi |
 
-### <a name="tools"></a>Tools
-| Link | Description |
+### <a name="tools"></a>Araçlar
+| Link | Açıklama |
 | ------ | ------ |
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.|
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Go ile yazılmış, ziyaretçi davranışını analiz edebilen ve her türlü saldırıya uyarlanmış bir yanıt sağlayabilen açık kaynaklı, ücretsiz ve işbirliğine dayalı bir IPS /IDS yazılımı. |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
-| [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
-| [Metasploit Framework](https://www.metasploit.com/) | Pentest Framework used by Kali Linux. |
-| [NMap](https://nmap.org/) | Nmap "Network Mapper" is a free and open source utility for network discovery and security auditing. |
-| [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |i
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer |
-| [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; | 
-| [OSSEC](https://www.ossec.net/) | OSSEC is a multplatform, opensource and free HIDS |
-| [Wazuh](https://wazuh.com) | Wazun is a open source enterprise-ready security monitoring solution for threat detection, integrity monitorying, incident response and compliance. | 
-| [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
-| [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
-| [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
-| [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
+| [Sonarqube](https://www.sonarqube.org/) | Statik Kod İnceleyici | 
+| [PunkSPIDER](https://www.punkspider.org) | Küresel bir web uygulaması güvenlik açığı arama motoru. |
+| [Metasploit Framework](https://www.metasploit.com/) | Kali Linux tarafından kullanılan Pentest Framework. |
+| [NMap](https://nmap.org/) |Nmap "Network Mapper" ağ keşfi ve güvenlik denetimi için ücretsiz ve açık kaynaklı bir yardımcı programdır. |
+| [Netcat](http://netcat.sourceforge.net/) | Netcat, TCP/IP protokolünü kullanarak ağ bağlantıları üzerinden veri okuyan ve yazan özellikli bir ağ yardımcı programıdır. |
+| [Sonarqube](https://www.sonarqube.org/) | Statik Kod İnceleyici |
+| [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump, bir ağ arabiriminde boolean ifadesiyle eşleşen paketlerin içeriğinin bir açıklamasını yazdırır; | 
+| [OSSEC](https://www.ossec.net/) | OSSEC çok platformlu, açık kaynaklı ve ücretsiz bir HIDS'tir |
+| [Wazuh](https://wazuh.com) | Wazun, tehdit algılama, bütünlük izleme, olay müdahalesi ve uyumluluk için açık kaynaklı, kurumsal kullanıma hazır bir güvenlik izleme çözümüdür. | 
+| [w3af](http://w3af.org/) | Web Uygulaması Saldırı ve Denetim Çerçevesi |
+| [Wireshark](https://www.wireshark.org/) | Wireshark dünyanın en önde gelen ve yaygın olarak kullanılan ağ protokolü analizörüdür. |
+| [Zeek](https://www.zeek.org/) | Zeek açık kaynaklı bir ağ güvenliği izleme aracıdır. |
+| [zeek2es](https://github.com/corelight/zeek2es) | Zeek günlüklerini Elastic/OpenSearch'e dönüştürmek için açık kaynaklı bir araç.  Zeek'in TSV günlüklerinden saf JSON çıktısı da alınabilir. |          
 
-### <a name="books"></a>Books
-| Link | Description |
+### <a name="books"></a>Kitaplar
+| Link | Açıklama |
 | ------ | ------ |
-| [The Security Engineer Handbook](https://securityhandbook.io/) | a small book on how to make it in a security team, as part of a broader organization |
+| [The Security Engineer Handbook](https://securityhandbook.io/) | daha geniş bir organizasyonun parçası olarak bir güvenlik ekibinde nasıl başarılı olunacağına dair küçük bir kitap |
