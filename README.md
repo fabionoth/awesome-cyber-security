@@ -4,7 +4,7 @@
 
 Güvenlikle ilgili harika yazılımlar, kütüphaneler, belgeler, kitaplar, kaynaklar ve havalı şeylerden oluşan bir koleksiyon.
 
-Awesome Security](https://github.com/sbilly/awesome-security) ve [Herman Slatman](https://github.com/hslatman)'dan esinlenilmiştir.
+[Awesome Security](https://github.com/sbilly/awesome-security) ve [Herman Slatman](https://github.com/hslatman)'dan esinlenilmiştir.
 
 Tüm [katkıda bulunanlara](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors) teşekkürler, harikasınız ve siz olmadan mümkün olmazdı! Amaç, çok iyi bilinen kaynaklardan oluşan kategorize edilmiş topluluk odaklı bir koleksiyon oluşturmaktır.
 
