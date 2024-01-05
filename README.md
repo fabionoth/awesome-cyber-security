@@ -6,7 +6,7 @@ A collection of awesome software, libraries, documents, books, resources, and co
 
 Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) and [Herman Slatman](https://github.com/hslatman).
 
-Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors), you're awesome. This wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors). You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
 
 List links and description 
@@ -27,7 +27,7 @@ List links and description
 ### <a name="cert"></a>CERT and alerts
 | Link | Description |
 | ------ | ------ |
-| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
+| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies, and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
 | [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
 
@@ -44,11 +44,11 @@ List links and description
 ### <a name="org"></a>Organizations
 | Link | Description |
 | ------ | ------ |
-| [CIS Centor for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
+| [CIS Center for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
 | [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE® is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.|
 | [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
 | [Owasp](https://www.owasp.org) | Open Web Application Security Project |
-| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
+| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Initiative |
 
 ### <a name="blogs"></a>Informatives and blogs
 | Link | Description |
@@ -135,10 +135,9 @@ List links and description
 | [Metasploit Framework](https://www.metasploit.com/) | Pentest Framework used by Kali Linux. |
 | [NMap](https://nmap.org/) | Nmap "Network Mapper" is a free and open source utility for network discovery and security auditing. |
 | [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |i
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; | 
-| [OSSEC](https://www.ossec.net/) | OSSEC is a multplatform, opensource and free HIDS |
-| [Wazuh](https://wazuh.com) | Wazun is an open source enterprise-ready security monitoring solution for threat detection, integrity monitorying, incident response and compliance. | 
+| [OSSEC](https://www.ossec.net/) | OSSEC is a multiplatform, opensource and free HIDS |
+| [Wazuh](https://wazuh.com) | Wazun is an open source enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
 | [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
