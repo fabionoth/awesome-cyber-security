@@ -127,7 +127,7 @@ List links and description
 ### <a name="tools"></a>Tools
 | Link | Description |
 | ------ | ------ |
-| [Pixee](https://pixee.ai)![pixee ai](https://github.com/citizenjosh/awesome-cyber-security/assets/320281/b28ba036-9576-4f7b-9f36-ea0852924d9b) | Pixeebot finds security and performance issues in your code and creates merge-ready pull requests with recommended fixes. | 
+| [Pixee](https://pixee.ai) | Pixeebot finds security and performance issues in your code and creates merge-ready pull requests with recommended fixes. | 
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.|
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
