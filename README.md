@@ -2,11 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+A collection of awesome software, libraries, documents, books, resources, and cool stuff about security.
 
 Inspired by [Awesome Security](https://github.com/sbilly/awesome-security) and [Herman Slatman](https://github.com/hslatman).
 
-Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+Thanks to all [contributors](https://github.com/fabionoth/awesome-cyber-security/graphs/contributors). You're awesome. This wouldn't be possible without you! The goal is to build a categorized, community-driven collection of very well-known resources.
 
 
 List links and description 
@@ -27,7 +27,7 @@ List links and description
 ### <a name="cert"></a>CERT and alerts
 | Link | Description |
 | ------ | ------ |
-| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
+| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies, and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
 | [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
 
@@ -44,11 +44,11 @@ List links and description
 ### <a name="org"></a>Organizations
 | Link | Description |
 | ------ | ------ |
-| [CIS Centor for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
+| [CIS Center for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
 | [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE® is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.|
 | [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
 | [Owasp](https://www.owasp.org) | Open Web Application Security Project |
-| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
+| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Initiative |
 
 ### <a name="blogs"></a>Informatives and blogs
 | Link | Description |
@@ -67,7 +67,7 @@ List links and description
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
 | [Virus Guides](http://virusguides.com/) | Powered by Knowledge |
 | [Malwaretech](https://www.malwaretech.com/) | News about Malware |
-| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
+| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security community |
 | [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
 | [Advisory Week](https://advisoryweek.com/) | Security Advisories published by major vendors this week |
 
@@ -75,7 +75,7 @@ List links and description
 | Link | Description | 
 | ------ | ------ |
 | [BetterMotherFucking CTF](https://github.com/qmemcpy/bettermotherfuckingctf) | MotherfuckingCTF inspired platform. But better. |
-| [CTF365](https://ctf365.com/) | CTF Praticing |
+| [CTF365](https://ctf365.com/) | CTF Practicing |
 | [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
 | [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience  |
 | [Hackflag](https://hackaflag.com.br) | Brazilian Hackflag |
@@ -115,9 +115,9 @@ List links and description
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
 | ------ | ------ |
-| [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment oriented Linux distro.. |
+| [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment-oriented Linux distro. |
 | [BlackArchLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
-| [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
+| [Kali](https://www.kali.org/) | Penetration Testing Distribution OS |
 | [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Security Operating System is a Penetration Testing & Forensics Distro dedicated to Ethical Hackers & Cyber Security Professionals.|
 | [QubesOS](https://www.qubes-os.org/) | Qubes OS is a security-oriented operating system (OS). The OS is the software that runs all the other programs on a computer. Some examples of popular OSes are Microsoft Windows, Mac OS X, Android, and iOS. Qubes is free and open-source software (FOSS). |
 | [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
@@ -127,7 +127,7 @@ List links and description
 ### <a name="tools"></a>Tools
 | Link | Description |
 | ------ | ------ |
-| [Pixeebot](https://github.com/apps/pixeebot) | A free GitHub app that monitors your respositories for security and performance issues, and creates merge-ready pull requests with recommended fixes. | 
+| [Pixee](https://pixee.ai) | Pixeebot finds security and performance issues in your code and creates merge-ready pull requests with recommended fixes. | 
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.|
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
@@ -135,10 +135,9 @@ List links and description
 | [Metasploit Framework](https://www.metasploit.com/) | Pentest Framework used by Kali Linux. |
 | [NMap](https://nmap.org/) | Nmap "Network Mapper" is a free and open source utility for network discovery and security auditing. |
 | [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |i
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; | 
-| [OSSEC](https://www.ossec.net/) | OSSEC is a multplatform, opensource and free HIDS |
-| [Wazuh](https://wazuh.com) | Wazun is a open source enterprise-ready security monitoring solution for threat detection, integrity monitorying, incident response and compliance. | 
+| [OSSEC](https://www.ossec.net/) | OSSEC is a multiplatform, opensource and free HIDS |
+| [Wazuh](https://wazuh.com) | Wazun is an open source enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
 | [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
