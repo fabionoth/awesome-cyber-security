@@ -38,8 +38,10 @@ List links and description
 | [CISSP - CERTIFIED INFORMATION SYSTEMS SECURITY PROFESSIONAL](https://www.isc2.org/Certifications/CISSP) | The Certified Information Systems Security Professional (CISSP) is an information security certification for security analysts. |
 | [CompTIA Security +](https://certification.comptia.org/certifications/security) | CompTIA Security+ is a global certification that validates the baseline skills you need to perform core security functions     and pursue an IT security career. |
 | [GPEN - GIAC Penetration Tester](https://www.giac.org/certification/penetration-tester-gpen) | The GPEN certification is for security personnel whose job duties involve assessing target networks and systems to find security vulnerabilities. Certification objectives include penetration-testing methodologies, the legal issues surrounding penetration testing and how to properly conduct a penetration test as well as best practice technical and non-technical techniques specific to conduct a penetration test.|
-| [PWK - Penetration Testing Training with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)| Penetration Testing with Kali (PWK) is a self-paced, online course that introduces students to the latest ethical hacking tools and techniques. |
-| [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) |The Offensive Security Certified Professional (OSCP) is the companion certification for our Penetration Testing with Kali Linux training course and is the world’s first completely hands-on offensive information security certification. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour certification exam. | 
+| [PWK - Penetration Testing Training with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/) | Penetration Testing with Kali (PWK) is a self-paced, online course that introduces students to the latest ethical hacking tools and techniques. |
+| [PNPT - Practical Network Penetration Tester](https://certifications.tcm-sec.com/pnpt/) | PNPT certification is an intermediate-level penetration testing exam experience. Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report. |
+| [PENT - Professional Penetration Tester](https://www.darkrelay.com/courses/professional-penetration-tester) | PENT is a zero to hero style instructor-led cybersecurity course to equip students to learn professional penetration testing & vulnerability assessment skills by building lab networks to practice network and application enumeration scanning, exploitation, privilege escalation, and lateral movement skills. |
+| [OSCP - Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) | The Offensive Security Certified Professional (OSCP) is the companion certification for our Penetration Testing with Kali Linux training course and is the world’s first completely hands-on offensive information security certification. The OSCP challenges the students to prove they have a clear and practical understanding of the penetration testing process and life-cycle through an arduous twenty-four (24) hour certification exam. | 
 
 ### <a name="org"></a>Organizations
 | Link | Description |
@@ -47,12 +49,15 @@ List links and description
 | [CIS Center for Internet Security](https://www.cisecurity.org/)|CIS® (Center for Internet Security, Inc.) is a forward-thinking, non-profit entity that harnesses the power of a global IT community to safeguard private and public organizations against cyber threats. |
 | [CVE - Common Vulnerabilities and Exposures](https://cve.mitre.org) | CVE® is a list of entries—each containing an identification number, a description, and at least one public reference—for publicly known cybersecurity vulnerabilities.|
 | [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
-| [Owasp](https://www.owasp.org) | Open Web Application Security Project |
+| [OWASP](https://www.owasp.org) | Open Web Application Security Project |
 | [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Initiative |
 
 ### <a name="blogs"></a>Informatives and blogs
 | Link | Description |
 | ------ | ------ |
+| [Mandiant Research Blogs](https://www.mandiant.com/resources/blog) | Advesary and threat Research oriented cybersecurity blogs |
+| [Elastic Security Labs Blogs](https://www.elastic.co/security-labs) | Cybersecurity Research oriented blogs |
+| [DarkRelay Security Labs Blogs](https://www.darkrelay.com/blog) | Cybersecurity blogs |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [ICS Sans](https://ics.sans.org) | Sans Industrial Control Systems blog |
 | [GBHackers on Security](https://gbhackers.com/) | Security blog |
@@ -93,11 +98,10 @@ List links and description
 | [Zone-H](http://zone-h.org/) | List of sites attacked by unethical Hackers |
 | [WikiLeaks](https://wikileaks.org/) | WikiLeaks is a multi-national media organization and associated library. |
 
-### <a name="ithack"></a>IT Hacking list
+### <a name="ithack"></a>IT Hacking DB list
 | Link | Description |
 | ------ | ------ |
-| [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Google Hackgin Database |
-| [Metasploit](https://www.metasploit.com/) | Metasploit penetration testing software |
+| [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Google Hacking Database (GHDB) |
 
 ### <a name="athack"></a>AT Hacking list
 | Link | Description | 
@@ -111,6 +115,8 @@ List links and description
 | [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning | 
 | [O Tao do Desenvolvimento Seguro](https://github.com/forkd/seguranca) | [PT-BR] Safe Development Guide | 
 | [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/) | Website with guides and a Free Ethical Hacking Course |
+| [PortSwigger Labs](https://portswigger.net/web-security) | Free learning resources focused on web and API security only | 
+| [DarkRelay Security Labs](https://darkrelay.com/training) | Free & paid cybersecurity trainings with certifications | 
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
@@ -118,6 +124,7 @@ List links and description
 | [BackBoxLinux](https://backbox.org/download) | BackBox Linux is a penetration testing and security assessment-oriented Linux distro. |
 | [BlackArchLinux](https://blackarch.org/index.html) | BlackArch Linux is an Arch Linux-based penetration testing distribution for penetration testers and security researchers. The repository contains 1925 tools. You can install tools individually or in groups. BlackArch Linux is compatible with existing Arch installs. |
 | [Kali](https://www.kali.org/) | Penetration Testing Distribution OS |
+| [Kali Purple](https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home) | Kali OS but for Defense |
 | [ParrotSec](https://www.parrotsec.org/index.php) | Parrot Security Operating System is a Penetration Testing & Forensics Distro dedicated to Ethical Hackers & Cyber Security Professionals.|
 | [QubesOS](https://www.qubes-os.org/) | Qubes OS is a security-oriented operating system (OS). The OS is the software that runs all the other programs on a computer. Some examples of popular OSes are Microsoft Windows, Mac OS X, Android, and iOS. Qubes is free and open-source software (FOSS). |
 | [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
@@ -127,8 +134,8 @@ List links and description
 ### <a name="tools"></a>Tools
 | Link | Description |
 | ------ | ------ |
-| [Pixee](https://pixee.ai) | Pixeebot finds security and performance issues in your code and creates merge-ready pull requests with recommended fixes. | 
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | An open source, free, and collaborative IPS/IDS software written in Go, able to analyze visitor behavior & provide an adapted response to all kinds of attacks.|
+| [Pixee](https://pixee.ai) | Finds security & performance issues in code and creates merge-ready pull requests with recommended fixes. | 
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Open-source, free, & collaborative IPS/IDS (Go lang), analyzes visitor behavior & provide an adapted response.|
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
@@ -140,6 +147,7 @@ List links and description
 | [Wazuh](https://wazuh.com) | Wazun is an open source enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 | [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
+| [OWASP ZAP](https://www.zaproxy.org) | OWASP ZAP is a MITM which is free and open source | 
 | [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
 | [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
 
