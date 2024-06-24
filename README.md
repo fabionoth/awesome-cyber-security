@@ -150,6 +150,7 @@ List links and description
 | [OWASP ZAP](https://www.zaproxy.org) | OWASP ZAP is a MITM which is free and open source | 
 | [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
 | [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
+| [Stellastra](https://stellastra.com/email-deliverability-check) | Scans email headers to diagnose authentication and security issues including SPF, DKIM, and DMARC analysis.
 
 ### <a name="books"></a>Books
 | Link | Description |
