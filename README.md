@@ -118,6 +118,7 @@ List links and description
 | [Guru99](https://www.guru99.com/ethical-hacking-tutorials.html/) | Website with guides and a Free Ethical Hacking Course |
 | [PortSwigger Labs](https://portswigger.net/web-security) | Free learning resources focused on web and API security only | 
 | [DarkRelay Security Labs](https://darkrelay.com/training) | Free & paid cybersecurity trainings with certifications | 
+| [LabEx](https://labex.io/skilltrees/cybersecurity)  | Free & paid cybersecurity hands-on labs  | 
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
