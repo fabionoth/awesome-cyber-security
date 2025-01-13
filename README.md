@@ -91,6 +91,7 @@ List links and description
 | [Pwnable.kr](http://pwnable.kr/) | 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. |
 | [Trailofbits Github](https://trailofbits.github.io/ctf/) | CTF Field Guide |
 | [Shellter](https://shellterlabs.com) | Social Network focused on information security |
+| [CyberPython](https://pythoncyber.go.ro) | Practical cyber security challenges with own research |
 
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 | Link | Description | 
