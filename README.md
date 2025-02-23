@@ -75,6 +75,7 @@ List links and description
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security community |
 | [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
 | [Advisory Week](https://advisoryweek.com/) | Security Advisories published by major vendors this week |
+| [InfoStealers by Hudson Rock](https://www.infostealers.com/) | The all-around Infostealer malware hub with recent news and publications |
 
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
 | Link | Description | 
@@ -153,6 +154,7 @@ List links and description
 | [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
 | [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
 | [Stellastra](https://stellastra.com/email-deliverability-check) | Scans email headers to diagnose authentication and security issues including SPF, DKIM, and DMARC analysis.
+| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free cybercrime/infostealer intelligence toolkit to check if a username, email address, or domain was exposed in Infostealer malware attack |
 
 ### <a name="books"></a>Books
 | Link | Description |
