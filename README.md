@@ -139,6 +139,7 @@ List links and description
 | ------ | ------ |
 | [Pixee](https://pixee.ai) | Finds security & performance issues in code and creates merge-ready pull requests with recommended fixes. | 
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Open-source, free, & collaborative IPS/IDS (Go lang), analyzes visitor behavior & provide an adapted response.|
+| [CrackStation](https://crackstation.net/) | CrackStation uses massive pre-computed lookup tables to crack password hashes. |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
