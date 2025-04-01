@@ -17,7 +17,7 @@ List links and description
 * [CTF, Training L3g@l and G@mes](#training)
 * [Non-legal Cyber activism](#hackactivism)
 * [IT Hacking list](#ithack)
-* [AT Hacking list](#athack)
+* [OT Hacking list](#athack)
 * [Courses and Guides Sites](#courses)
 * [OS - Operation Systens](#os)
 * [Tools](#os)
@@ -134,28 +134,33 @@ List links and description
 | [PENTOOS](http://www.pentoo.ch/) | Pentoo is a security-focused livecd based on Gentoo |
 | [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
 
-### <a name="tools"></a>Tools
-| Link | Description |
-| ------ | ------ |
-| [Pixee](https://pixee.ai) | Finds security & performance issues in code and creates merge-ready pull requests with recommended fixes. | 
-| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Open-source, free, & collaborative IPS/IDS (Go lang), analyzes visitor behavior & provide an adapted response.|
-| [CrackStation](https://crackstation.net/) | CrackStation uses massive pre-computed lookup tables to crack password hashes. |
-| [Find Sec Bugs](https://find-sec-bugs.github.io/) | The FindBugs plugin for security audits of Java Web Applications. | 
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
-| [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. |
-| [Metasploit Framework](https://www.metasploit.com/) | Pentest Framework used by Kali Linux. |
-| [NMap](https://nmap.org/) | Nmap "Network Mapper" is a free and open source utility for network discovery and security auditing. |
-| [Netcat](http://netcat.sourceforge.net/) | Netcat is a featured networking utility which reads and writes data across network connections, using the TCP/IP protocol. |i
-| [TCPDump](https://www.tcpdump.org/tcpdump_man.html) | Tcpdump prints out a description of the contents of packets on a network interface that match the boolean expression; | 
-| [OSSEC](https://www.ossec.net/) | OSSEC is a multiplatform, opensource and free HIDS |
-| [Wazuh](https://wazuh.com) | Wazun is an open source enterprise-ready security monitoring solution for threat detection, integrity monitoring, incident response and compliance. | 
-| [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
-| [Wireshark](https://www.wireshark.org/) | Wireshark is the world’s foremost and widely-used network protocol analyzer |
-| [OWASP ZAP](https://www.zaproxy.org) | OWASP ZAP is a MITM which is free and open source | 
-| [Zeek](https://www.zeek.org/) | Zeek is an open source network security monitoring tool |
-| [zeek2es](https://github.com/corelight/zeek2es) | An open source tool to convert Zeek logs to Elastic/OpenSearch.  You can also output pure JSON from Zeek's TSV logs! |          
-| [Stellastra](https://stellastra.com/email-deliverability-check) | Scans email headers to diagnose authentication and security issues including SPF, DKIM, and DMARC analysis.
-| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Free cybercrime/infostealer intelligence toolkit to check if a username, email address, or domain was exposed in Infostealer malware attack |
+## <a name="tools"></a>Tools
+
+| Link                                                  | Description                                                            |
+| ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
+| [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
+| [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
+| [Ghidra](https://ghidra-sre.org/)                     | NSA reverse engineering tool.                                          |
+| [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
+| [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Infostealer malware exposure checker.                        |
+| [Metasploit Framework](https://www.metasploit.com/)   | Pentesting framework used by Kali Linux.                               |
+| [Netcat](http://netcat.sourceforge.net/)              | Networking utility for TCP/IP protocol.                                |
+| [NMap](https://nmap.org/)                             | Network discovery and security auditing tool.                          |
+| [OSSEC](https://www.ossec.net/)                       | Multiplatform open-source HIDS.                                        |
+| [OWASP ZAP](https://www.zaproxy.org)                  | Open-source MITM proxy for security testing.                           |
+| [Pixee](https://pixee.ai)                             | Finds security & performance issues in code and creates merge-ready pull requests.|
+| [PunkSPIDER](https://www.punkspider.org)              | Web application vulnerability search engine.                           |
+| [Sonarqube](https://www.sonarqube.org/)               | Static code reviewer.                                                  |
+| [Stellastra](https://stellastra.com/email-deliverability-check) | Email authentication and security issues scanner.                      |
+| [TCPDump](https://www.tcpdump.org/tcpdump_man.html)   | Network packet analysis tool.                                          |
+| [w3af](http://w3af.org/)                              | Web Application Attack and Audit Framework.                            |
+| [Wazuh](https://wazuh.com)                            | Security monitoring solution for threat detection and compliance.      |
+| [Wireshark](https://www.wireshark.org/)               | Network protocol analyzer.                                             |
+| [Zeek](https://www.zeek.org/)                         | Network security monitoring tool.                                      |
+| [zeek2es](https://github.com/corelight/zeek2es)       | Converts Zeek logs to Elastic/OpenSearch.                              |
+
+
 
 ### <a name="books"></a>Books
 | Link | Description |
