@@ -51,6 +51,10 @@ List links and description
 | [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers? |
 | [OWASP](https://www.owasp.org) | Open Web Application Security Project |
 | [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Initiative |
+| [National Vulnerability Database](https://nvd.nist.gov) | U.S. government repository of standards-based vulnerability management data. |
+| [MITRE ATT&CK](https://attack.mitre.org) | Globally accessible knowledge base of adversary tactics and techniques based on real-world observations of cybersecurity threats. |
+| [Electronic Frontier Foundation](https://www.eff.org) | Nonprofit organization defending civil liberties in the digital world. |
+
 
 ### <a name="blogs"></a>Informatives and blogs
 | Link | Description |
