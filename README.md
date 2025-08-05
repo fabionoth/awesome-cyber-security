@@ -156,6 +156,7 @@ List links and description
 | [Pareto Security](https://paretosecurity.com/apps)    | Open-source systray app for basic security hygiene on Linux/Mac/Wins desktops.|
 | [Pixee](https://pixee.ai)                             | Finds security & performance issues in code and creates merge-ready pull requests.|
 | [PunkSPIDER](https://www.punkspider.org)              | Web application vulnerability search engine.                           |
+| [Vulert](https://www.vulert.com)                      | Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.|
 | [Sonarqube](https://www.sonarqube.org/)               | Static code reviewer.                                                  |
 | [Stellastra](https://stellastra.com/email-deliverability-check) | Email authentication and security issues scanner.                      |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)   | Network packet analysis tool.                                          |
