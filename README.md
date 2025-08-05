@@ -153,6 +153,7 @@ List links and description
 | [NMap](https://nmap.org/)                             | Network discovery and security auditing tool.                          |
 | [OSSEC](https://www.ossec.net/)                       | Multiplatform open-source HIDS.                                        |
 | [OWASP ZAP](https://www.zaproxy.org)                  | Open-source MITM proxy for security testing.                           |
+| [Pareto Security](https://paretosecurity.com/apps)    | Open-source systray app for basic security hygiene on Linux/Mac/Wins desktops.|
 | [Pixee](https://pixee.ai)                             | Finds security & performance issues in code and creates merge-ready pull requests.|
 | [PunkSPIDER](https://www.punkspider.org)              | Web application vulnerability search engine.                           |
 | [Sonarqube](https://www.sonarqube.org/)               | Static code reviewer.                                                  |
