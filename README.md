@@ -161,6 +161,7 @@ List links and description
 | [Sonarqube](https://www.sonarqube.org/)               | Static code reviewer.                                                  |
 | [Stellastra](https://stellastra.com/email-deliverability-check) | Email authentication and security issues scanner.                      |
 | [TCPDump](https://www.tcpdump.org/tcpdump_man.html)   | Network packet analysis tool.                                          |
+| [UUSEC WAF](https://github.com/Safe3/uusec-waf)       | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall. |
 | [w3af](http://w3af.org/)                              | Web Application Attack and Audit Framework.                            |
 | [Wazuh](https://wazuh.com)                            | Security monitoring solution for threat detection and compliance.      |
 | [Wireshark](https://www.wireshark.org/)               | Network protocol analyzer.                                             |
