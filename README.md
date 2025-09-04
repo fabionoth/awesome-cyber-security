@@ -142,6 +142,7 @@ List links and description
 
 | Link                                                  | Description                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Beelzebub](https://github.com/mariocandela/beelzebub)| A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
