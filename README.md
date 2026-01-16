@@ -97,6 +97,7 @@ List links and description
 | [Trailofbits Github](https://trailofbits.github.io/ctf/) | CTF Field Guide |
 | [Shellter](https://shellterlabs.com) | Social Network focused on information security |
 | [CyberPython](https://pythoncyber.go.ro) | Practical cyber security challenges with own research |
+| [OSS – OopsSec Store](https://github.com/kOaDT/oss-oopssec-store) | Self-hosted CTF platform with intentionally vulnerable e-commerce application. Quick setup with `npx create-oss-store`. |
 
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 | Link | Description | 
