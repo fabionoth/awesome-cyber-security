@@ -171,6 +171,7 @@ List links and description
 | [zeek2es](https://github.com/corelight/zeek2es)       | Converts Zeek logs to Elastic/OpenSearch.                              |
 | [subdomainradar](https://subdomainradar.io)           | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access |
 | [leakradar](https://leakradar.io)                     | Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API |
+| [Tessera](https://github.com/tessera-ops/tessera)     | OWASP AI security testing framework — 42 tests for LLM and agentic AI. |
 
 
 ### <a name="books"></a>Books
