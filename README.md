@@ -149,6 +149,7 @@ List links and description
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
 | [Ghidra](https://ghidra-sre.org/)                     | NSA reverse engineering tool.                                          |
 | [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
+| [HackMyIP](https://hackmyip.com/)                     | Free privacy and security toolkit with 19+ tools: IP lookup, DNS leak test, WebRTC leak test, port scanner, email breach checker, and more. No registration required. |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Infostealer malware exposure checker.                        |
 | [Metasploit Framework](https://www.metasploit.com/)   | Pentesting framework used by Kali Linux.                               |
 | [Netcat](http://netcat.sourceforge.net/)              | Networking utility for TCP/IP protocol.                                |
