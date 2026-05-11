@@ -126,6 +126,7 @@ List links and description
 | [PortSwigger Labs](https://portswigger.net/web-security) | Free learning resources focused on web and API security only | 
 | [DarkRelay Security Labs](https://darkrelay.com/training) | Free & paid cybersecurity trainings with certifications | 
 | [LabEx](https://labex.io/skilltrees/cybersecurity)  | Free & paid cybersecurity hands-on labs  | 
+| [Offensive CyberSec Cheat Sheet](https://github.com/AmitR12/Cybersec) | A comprehensive and accessible cheat sheet for offensive cybersecurity commands and tools. |
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
