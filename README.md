@@ -80,6 +80,7 @@ List links and description
 | [Virtual Dispersive Networking](https://www.loginradius.com/blog/async/Learn-About-VDN-for-CyberSecurity/) | Virtual Dispersive Networking for Cyber Security Blog |
 | [Advisory Week](https://advisoryweek.com/) | Security Advisories published by major vendors this week |
 | [InfoStealers by Hudson Rock](https://www.infostealers.com/) | The all-around Infostealer malware hub with recent news and publications |
+| [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) | This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture |
 
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
 | Link | Description | 
