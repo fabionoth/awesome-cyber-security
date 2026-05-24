@@ -148,6 +148,7 @@ List links and description
 | [Beelzebub](https://github.com/mariocandela/beelzebub)| A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
+| [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily. |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
 | [Ghidra](https://ghidra-sre.org/)                     | NSA reverse engineering tool.                                          |
 | [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
