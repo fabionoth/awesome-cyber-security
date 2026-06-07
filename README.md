@@ -32,6 +32,9 @@ List links and description
 | [ICS-CERT-US - Alerts](https://ics-cert.us-cert.gov/alerts) | An ICS-CERT Alert is intended to provide timely notification to critical infrastructure owners and operators concerning threats or activity with the potential to impact critical infrastructure computing networks.|
 
 ### <a name="certification"></a>Certification
+
+- [Courseiva](https://courseiva.com/certifications/security-plus) — Free cybersecurity certification practice questions for Security+, CISSP, CEH, and CySA+ with detailed explanations.
+
 | Link | Description | 
 | ------ | ------- | 
 | [CEH - Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) | A Certified Ethical Hacker is a skilled professional who understands and knows how to look for weaknesses and vulnerabilities in target systems and uses the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner to assess the security posture of a target system(s). The CEH credential certifies individuals in the specific network security discipline of Ethical Hacking from a vendor-neutral perspective. | 
