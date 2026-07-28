@@ -157,6 +157,7 @@ List links and description
 | [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Infostealer malware exposure checker.                        |
 | [IPASIS](https://ipasis.com)                          | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation. |
+| [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | Open source (GPL 3.0) autonomous AI penetration testing platform for web, API, Active Directory and Kubernetes with proof of exploitation. |
 | [Metasploit Framework](https://www.metasploit.com/)   | Pentesting framework used by Kali Linux.                               |
 | [Netcat](http://netcat.sourceforge.net/)              | Networking utility for TCP/IP protocol.                                |
 | [NMap](https://nmap.org/)                             | Network discovery and security auditing tool.                          |
