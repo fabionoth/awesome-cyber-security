@@ -152,6 +152,7 @@ List links and description
 | [Beelzebub](https://github.com/mariocandela/beelzebub)| A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
+| [DomScan](https://domscan.net/tools/security)          | Domain reconnaissance for DNS, WHOIS/RDAP, TLS, subdomains, reputation, and typosquatting. |
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
 | [Ghidra](https://ghidra-sre.org/)                     | NSA reverse engineering tool.                                          |
 | [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
