@@ -156,6 +156,7 @@ List links and description
 | [Find Sec Bugs](https://find-sec-bugs.github.io/)     | Security audits plugin for Java Web Applications.                      |
 | [Ghidra](https://ghidra-sre.org/)                     | NSA reverse engineering tool.                                          |
 | [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) | Autonomous reverse engineering with Ghidra using Model Context Protocol.|
+| [HimitsuShell](https://github.com/HimitsuShell/Himitsu) | Converts shell scripts into obfuscated binaries with an embedded shell interpreter and anti-debugging. (alternative to shc) |
 | [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) | Infostealer malware exposure checker.                        |
 | [IPASIS](https://ipasis.com)                          | Real-time bot detection and fraud prevention API with IP reputation, proxy/VPN detection, and email validation. |
 | [Metasploit Framework](https://www.metasploit.com/)   | Pentesting framework used by Kali Linux.                               |
