@@ -131,6 +131,7 @@ List links and description
 | [DarkRelay Security Labs](https://darkrelay.com/training) | Free & paid cybersecurity trainings with certifications | 
 | [LabEx](https://labex.io/skilltrees/cybersecurity)  | Free & paid cybersecurity hands-on labs  | 
 | [Offensive CyberSec Cheat Sheet](https://github.com/AmitR12/Cybersec) | A comprehensive and accessible cheat sheet for offensive cybersecurity commands and tools. |
+| [RansomLeak](https://ransomleak.com/learning/) | Free browser-based labs for security awareness, OWASP Web and API Top 10, cloud, Git, and AI security |
 
 ### <a name="os"></a>OS - Operation Systens 
 | Link | Description | 
