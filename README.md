@@ -34,6 +34,7 @@ List links and description
 ### <a name="certification"></a>Certification
 
 - [Courseiva](https://courseiva.com/certifications/security-plus) — Free cybersecurity certification practice questions for Security+, CISSP, CEH, and CySA+ with detailed explanations.
+- [KeyDrift](https://keydrift.dev) — Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 | Link | Description | 
 | ------ | ------- | 
