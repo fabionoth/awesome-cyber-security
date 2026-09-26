@@ -85,6 +85,7 @@ List links and description
 | [InfoStealers by Hudson Rock](https://www.infostealers.com/) | The all-around Infostealer malware hub with recent news and publications |
 | [SecOps Bit By Bit: Roadmap for First-Time CTOs and Startup Founders](https://leanpub.com/secops-bit-by-bit) | This book is a compilation of best practices for evaluating weak spots in a product and company, and fostering a robust security culture |
 | [defend.network](https://defend.network) | Free, no-login cyber threat intelligence: daily threat briefings and weekly vulnerability reports, with every CVE cross-checked against NVD and the CISA KEV catalog |
+| [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) | Open database of real-world AI agent security incidents (prompt injection, MCP, supply chain, credential theft, AI-driven attacks), updated monthly, each with primary sources and an attack-chain diagram |
 
 ### <a name="training"></a>CTF, Training L3g@l and G@mes
 | Link | Description | 
