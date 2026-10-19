@@ -34,6 +34,7 @@ List links and description
 ### <a name="certification"></a>Certification
 
 - [Courseiva](https://courseiva.com/certifications/security-plus) — Free cybersecurity certification practice questions for Security+, CISSP, CEH, and CySA+ with detailed explanations.
+- [ExamWizardz](https://www.examwizardz.app/pbq-practice) — Free CompTIA A+ practice: interactive performance-based questions and labs for 220-1201 and 220-1202, graded in the browser with no account.
 
 | Link | Description | 
 | ------ | ------- | 
