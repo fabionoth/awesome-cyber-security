@@ -180,6 +180,7 @@ List links and description
 | [subdomainradar](https://subdomainradar.io)           | All-in-one recon platform: 50+ data sources for subdomain discovery, port & vulnerability scans, screenshots, and API access |
 | [leakradar](https://leakradar.io)                     | Instant search across 2 B+ plain-text info-stealer credentials; email, domain, metadata queries, monitoring & API |
 | [AzureFox](https://github.com/TacoRocket/AzureFox)    | Azure attack-path and privilege-chaining CLI for surfacing high-impact paths, usable pivots, and trust boundaries to break. |
+| [SubDomainWatch](https://subdomainwatch.com) | Attack surface monitoring platform for continuous subdomain discovery, DNS drift detection, and takeover prevention. |
 
 
 ### <a name="books"></a>Books
