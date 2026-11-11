@@ -161,6 +161,7 @@ List links and description
 | [Metasploit Framework](https://www.metasploit.com/)   | Pentesting framework used by Kali Linux.                               |
 | [Netcat](http://netcat.sourceforge.net/)              | Networking utility for TCP/IP protocol.                                |
 | [NMap](https://nmap.org/)                             | Network discovery and security auditing tool.                          |
+| [npm-install-audit](https://github.com/cryptostrapon/npm-install-audit) | Checks a JavaScript project you did not write for install hooks, git hooks and registry overrides before npm install. |
 | [OSSEC](https://www.ossec.net/)                       | Multiplatform open-source HIDS.                                        |
 | [OWASP ZAP](https://www.zaproxy.org)                  | Open-source MITM proxy for security testing.                           |
 | [Pareto Security](https://paretosecurity.com/apps)    | Open-source systray app for basic security hygiene on Linux/Mac/Wins desktops.|
