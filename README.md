@@ -174,6 +174,7 @@ List links and description
 | [UUSEC WAF](https://github.com/Safe3/uusec-waf)       | Industry-leading free, high-performance, AI and semantic technology Web Application Firewall. |
 | [w3af](http://w3af.org/)                              | Web Application Attack and Audit Framework.                            |
 | [Wazuh](https://wazuh.com)                            | Security monitoring solution for threat detection and compliance.      |
+| [WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/) | Hosted decoy API endpoints that record probes and provide request evidence for investigation. |
 | [Wireshark](https://www.wireshark.org/)               | Network protocol analyzer.                                             |
 | [Zeek](https://www.zeek.org/)                         | Network security monitoring tool.                                      |
 | [zeek2es](https://github.com/corelight/zeek2es)       | Converts Zeek logs to Elastic/OpenSearch.                              |
