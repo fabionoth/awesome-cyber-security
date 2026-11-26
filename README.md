@@ -150,7 +150,7 @@ List links and description
 | Link                                                  | Description                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------- |
 | [Beelzebub](https://github.com/mariocandela/beelzebub)| A secure low code honeypot framework, leveraging AI for System Virtualization. |
-| [BrandShield Typosquatting Shield](https://brand-checker.appwrite.network/typos) | Free 28-variant DNSTwist lookalike and phishing domain scanner with live RDAP, MX, and broker parking-NS detection. |
+| [BrandShield Typosquatting Shield](https://brand.shipbastion.com/typos) | Free 28-variant DNSTwist lookalike and phishing domain scanner with live RDAP, MX, and broker parking-NS detection. |
 | [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
 | [CVE PoC Search](https://labs.jamessawyer.co.uk/cves/) | Search public GitHub proof-of-concept repositories by CVE identifier, with 30,000+ CVEs indexed and updated daily. |
