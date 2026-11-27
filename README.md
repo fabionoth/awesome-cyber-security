@@ -93,6 +93,7 @@ List links and description
 | [CTF365](https://ctf365.com/) | CTF Practicing |
 | [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
 | [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience  |
+| [PortSwigger Web Security Academy](https://portswigger.net) | Free online web security training and interactive labs. |
 | [Hackflag](https://hackaflag.com.br) | Brazilian Hackflag |
 | [Hacking-LAB](https://www.hacking-lab.com/) | Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. |
 | [HackTheBox](https://hackthebox.eu) | Pen-testing Labs |
