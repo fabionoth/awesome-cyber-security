@@ -149,7 +149,7 @@ List links and description
 
 | Link                                                  | Description                                                            |
 | ----------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Insomnia Security MCP](https://github.com/vulnz/insomnia-mcp) | 159 cybersecurity, SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 tools (`https://mcp.insom.ai/mcp`) |
+| [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) | 159 cybersecurity, SAST/taint, live secrets, Web DAST, OSINT, 21k+ CVE & Outbound Network Tunnel v4.0 tools (`https://mcp.insom.ai/mcp`) |
 | [Beelzebub](https://github.com/mariocandela/beelzebub)| A secure low code honeypot framework, leveraging AI for System Virtualization. |
 | [CrackStation](https://crackstation.net/)             | Uses lookup tables to crack password hashes.                           |
 | [CrowdSec](https://github.com/crowdsecurity/crowdsec) | Collaborative IPS/IDS, analyzes visitor behavior & adapts responses.   |
